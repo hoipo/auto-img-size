@@ -6,6 +6,7 @@ watching your html file and auto add the property "width" and "height" on the IM
 
 ```js
 npm install -g auto-img-size
+```
 
 ## usage 用法
 
@@ -13,6 +14,7 @@ switch to your project folder in terminal and type the command followed:
 
 ```js
 ais -m [multiple]
+```
 
 ## LICENSE
 
