@@ -1,0 +1,29 @@
+{
+  "name": "auto-img-size",
+  "version": "0.1.0",
+  "description": "a node watching module to generate the property of \"width\" & \"height\" automatically. 这是一个在html文件中自动生成img标签的width和height属性的nodejs模块。",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "bin": {
+    "ais": "index.js"
+  },
+  "scripts": {
+    "test": "watch"
+  },
+  "keywords": [
+    "imgtag",
+    "width",
+    "height",
+    "size",
+    "html",
+    "auto"
+  ],
+  "author": "Hoipo Cheung",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "chokidar": "^1.4.1",
+    "commander": "^2.9.0",
+    "images": "^2.1.10"
+  }
+}
