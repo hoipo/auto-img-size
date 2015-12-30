@@ -25,5 +25,17 @@
     "chokidar": "^1.4.1",
     "commander": "^2.9.0",
     "images": "^2.1.10"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoipo/auto-img-size.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoipo/auto-img-size/issues"
+  },
+  "homepage": "https://github.com/hoipo/auto-img-size#readme"
 }
